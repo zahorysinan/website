@@ -1,0 +1,47 @@
+body{
+    background-image: url(image/back.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-color: black;
+}
+legend{
+
+    color:#ff99cc ;
+}
+fieldset{
+    display:block;
+    height:400px;
+    width: 500px;
+}
+
+#main{
+
+    background-color: #ff4da6 ;
+    font-style: italic;
+    margin-top: 100px;
+    width: 60%;
+    font-display: #ff4da6 ;
+    font-size: 15pt;
+}
+
+#w{
+  color:#ff99cc;
+    font-style: italic;
+    font-size: 50pt;
+
+}
+.n{
+  color:   #ff4da6 ;
+}
+.e{
+  color: #ff4da6 ;
+}
+.p{
+  color: #ff4da6 ;
+}
+#h{
+  color: #ff99cc;
+  font-size: 18pt;
+  font-style:
+
+}
